@@ -34,3 +34,7 @@ http {
 ~~[Nginx를 Load Balancer로 설정하기]()~~
 
 ~~[NGINX를 API Gateway로 배포하기]()~~
+
+# Nginx 로그 설정
+
+[Nginx 로그 관련 공식 문서](../Nginx/NginxLogFormat.md)
