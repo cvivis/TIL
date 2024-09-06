@@ -9,3 +9,8 @@
 ## Nginx
 
 - [Nginx 기본 개념 및 설정 설명](/Nginx/Nginx.md)
+
+## Spring Batch
+
+- [Spring Batch Introduction](/Spring/SpringBatch/SpringBatchIntroduction.md)
+- [Spring Batch Architecture](/Spring/SpringBatch/SpringBatchArchitecture.md)
